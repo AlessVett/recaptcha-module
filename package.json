@@ -37,7 +37,9 @@
     "lib",
     "types/*.d.ts"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "@nuxt/kit": "^3.12.2"
+  },
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
